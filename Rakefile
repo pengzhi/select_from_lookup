@@ -4,7 +4,7 @@ require 'echoe'
  
 Echoe.new('select_from_lookup', '0.1.0') do |p|
   p.description = "Generate drop down box for lookup values using belongs_to"
-  p.url = "http://github.com/pengzhi/Select-From-Lookup"
+  p.url = "http://github.com/pengzhi/select_from_lookup"
   p.author = "Pengzhi Quah"
   p.email = "pengzhiq@gmail.com"
   p.ignore_pattern = ["tmp/*", "script/*"]
